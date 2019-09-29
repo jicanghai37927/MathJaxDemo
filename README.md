@@ -1,2 +1,4 @@
 # MathJaxDemo
-MathJaxDemo
+演示如何使用本地MathJax显示LaTeX内容。
+
+将MathJax保存到assets目录下，并使用WebView加载MathJax从而显示LaTeX内容。
